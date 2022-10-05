@@ -51,6 +51,12 @@ public class Main {
         Employee employee = new Employee();
 
 
+        OgretmenKrediManager ogretmenKrediManager = new OgretmenKrediManager();
+        ogretmenKrediManager.Hesapla();
+        KrediUI krediUI = new KrediUI();
+        krediUI.KrediHesapla(ogretmenKrediManager);
+
+
 
 
 
