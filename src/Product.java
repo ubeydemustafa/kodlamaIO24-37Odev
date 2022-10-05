@@ -8,6 +8,21 @@ public class Product {
     private String renk;
     private String kod;
 
+    public Product(){
+
+    }
+    public Product(int id, String name, String description, Double price, int stockAmount, String renk){
+        this.id = id;
+        this.name = name ;
+        this.description = description;
+        this.price = price;
+        this.stockAmount = stockAmount;
+        this.renk = renk;
+
+    }
+
+
+
     public int getId() {
         return id;
     }

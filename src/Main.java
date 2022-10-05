@@ -34,7 +34,7 @@ public class Main {
         int sonuc = dortIslem.Topla(3,4);
         System.out.println(sonuc);
 
-
+        Product product2 = new Product(1,"bilgisayar","masaüstü bilgisayar",10000.0,5,"kırmızı");
         Product product = new Product();
         product.setName("Laptop");
         product.setId(1);
@@ -47,19 +47,8 @@ public class Main {
         productManager.Add(product);
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+        Customer customer = new Customer();
+        Employee employee = new Employee();
 
 
 

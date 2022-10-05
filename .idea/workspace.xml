@@ -4,12 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04739b39-b5ac-4579-a513-842c875c3f0e" name="Changes" comment="28.videoya kadar olan örnekler.">
-      <change afterPath="$PROJECT_DIR$/src/DortIslem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProductManager.java" afterDir="false" />
+    <list default="true" id="04739b39-b5ac-4579-a513-842c875c3f0e" name="Changes" comment="33.videoya kadar olan örnekler.">
+      <change afterPath="$PROJECT_DIR$/src/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EmployeeManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PersonManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CustomerManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CustomerManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DortIslem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DortIslem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Product.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664738310097</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="33.videoya kadar olan örnekler.">
+      <created>1664985725395</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664985725395</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,6 +102,7 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="....." />
     <MESSAGE value="28.videoya kadar olan örnekler." />
-    <option name="LAST_COMMIT_MESSAGE" value="28.videoya kadar olan örnekler." />
+    <MESSAGE value="33.videoya kadar olan örnekler." />
+    <option name="LAST_COMMIT_MESSAGE" value="33.videoya kadar olan örnekler." />
   </component>
 </project>
