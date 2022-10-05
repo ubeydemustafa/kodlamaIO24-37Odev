@@ -16,6 +16,55 @@ public class Main {
         customerManager.Remove();
         customerManager.Update();
 
+        //value
+        int sayi1 =10;
+        int sayi2 =20;
+        sayi2=sayi1;
+        sayi1=30;
+        System.out.println(sayi2);
+
+        int[] sayilar1 = new int[]{1,2,3};
+        int[] sayilar2 = new int[]{4,5,6};
+        sayilar2=sayilar1;
+        sayilar1[0] = 10;
+        System.out.println(sayilar2[0]);
+
+        DortIslem dortIslem = new DortIslem();
+
+        int sonuc = dortIslem.Topla(3,4);
+        System.out.println(sonuc);
+
+
+        Product product = new Product();
+        product.setName("Laptop");
+        product.setId(1);
+        product.setDescription("Asus Laptop");
+        product.setPrice(5000);
+        product.setStockAmount(3);
+        System.out.println(product.getKod());
+
+        ProductManager productManager = new ProductManager();
+        productManager.Add(product);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     }
     public static void sayiBulmaca(){
         int[] sayilar = new int[]{1,2,5,7,9,0};
